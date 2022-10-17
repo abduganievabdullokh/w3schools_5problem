@@ -3,7 +3,6 @@
 // 5. Write a program in C++ to check the upper and lower limits of integer.
 #include <iostream>
 #include <climits>
-#include <cfloat>
 
 using namespace std;
 
